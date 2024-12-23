@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/tang/Course/Operating System/Lab/Address Transformation",
+  "arguments": ["/opt/homebrew/opt/llvm/bin/clang", "-c", "-Qunused-arguments", "-std=c++23", "-o", "build/.objs/Address Transformation/macosx/arm64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]

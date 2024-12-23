@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/Users/tang/Course/Operating System/Lab/Process Management",
+  "arguments": ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang", "-c", "-Qunused-arguments", "-target", "arm64-apple-macos15.1", "-isysroot", "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++23", "-DNDEBUG", "-o", "build/.objs/WritersPriority/macosx/arm64/release/src/WritersPriority.cpp.o", "src/WritersPriority.cpp"],
+  "file": "src/WritersPriority.cpp"
+},
+{
+  "directory": "/Users/tang/Course/Operating System/Lab/Process Management",
+  "arguments": ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang", "-c", "-Qunused-arguments", "-target", "arm64-apple-macos15.1", "-isysroot", "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++23", "-DNDEBUG", "-o", "build/.objs/ReadersPriority/macosx/arm64/release/src/ReadersPriority.cpp.o", "src/ReadersPriority.cpp"],
+  "file": "src/ReadersPriority.cpp"
+}]
